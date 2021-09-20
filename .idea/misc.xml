@@ -3,7 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/bottom_nav_selector.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_add_black.xml" value="0.196875" />
+        <entry key="app/src/main/res/drawable/ic_close_white.xml" value="0.196875" />
+        <entry key="app/src/main/res/drawable/ic_delete.xml" value="0.196875" />
+        <entry key="app/src/main/res/drawable/ic_directions_run_black_24dp.xml" value="0.196875" />
+        <entry key="app/src/main/res/drawable/ic_graph.xml" value="0.196875" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.196875" />
+        <entry key="app/src/main/res/drawable/ic_pause_black_24dp.xml" value="0.196875" />
+        <entry key="app/src/main/res/drawable/ic_run.xml" value="0.196875" />
+        <entry key="app/src/main/res/drawable/ic_settings.xml" value="0.196875" />
+        <entry key="app/src/main/res/drawable/ic_stop_black_24dp.xml" value="0.196875" />
+        <entry key="app/src/main/res/layout-land/fragment_statistics.xml" value="0.15564373897707232" />
+        <entry key="app/src/main/res/layout-land/fragment_tracking.xml" value="0.15564373897707232" />
         <entry key="app/src/main/res/layout/fragment_run.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.13949275362318841" />
+        <entry key="app/src/main/res/layout/fragment_setup.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_statistics.xml" value="0.13949275362318841" />
+        <entry key="app/src/main/res/layout/fragment_tracking.xml" value="0.13949275362318841" />
+        <entry key="app/src/main/res/layout/item_run.xml" value="0.33" />
       </map>
     </option>
   </component>
